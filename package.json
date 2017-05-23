@@ -5,9 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-elem": "^1.2.0"
+    "react-elem": "^1.2.0",
+    "refnux": "^16.0.0-alpha.6"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2.7.1",
